@@ -51,9 +51,14 @@ header ul li + li {
 }
 /* main */
 
+main {
+      background-color: bisque;
+}
+
 main .container{
       width :400px;
       margin: 0 auto;
+      
      
 }
 
